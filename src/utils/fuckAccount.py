@@ -3,12 +3,12 @@ import requests
 from utils.common import *
 
 def fuckAccount(token):
-        set_console_title("Chronos V1 | Made by maxツ#8355 | Fuck Account")
+        set_console_title("lolxlol | Fuck Account")
         setting = {
             'theme': 'light',
             'locale': random.choice(['ja', 'zh-TW', 'ko', 'zh-CN']),
             'custom_status':{
-                'text': 'Fucked by Chronos',
+                'text': 'lolxlol on top',
                 'emoji_name': '⏱️'
             },
             'render_embeds': False,
