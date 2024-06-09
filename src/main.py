@@ -28,19 +28,20 @@ def main():
         os.system('clear')
 
     # Set Console title
-    set_console_title("Chronos V1 | Made by maxツ#8355 | Menu")
+    set_console_title("lolxlol nuker | menu")
 
     # ========================================================================================================================================================= #
 
     banner = """
-                    ______     __  __     ______     ______     __   __     ______     ______    
-                   /\  ___\   /\ \_\ \   /\  == \   /\  __ \   /\ "-.\ \   /\  __ \   /\  ___\   
-                   \ \ \____  \ \  __ \  \ \  __<   \ \ \/\ \  \ \ \-.  \  \ \ \/\ \  \ \___  \  
-                    \ \_____\  \ \_\ \_\  \ \_\ \_\  \ \_____\  \ \_\\\\"\_\  \ \_____\  \/\_____\ 
-                     \/_____/   \/_/\/_/   \/_/ /_/   \/_____/   \/_/ \/_/   \/_____/   \/_____/ 
+                        ██╗░░░░░ ░█████╗░ ██╗░░░░░ ██╗░░██╗ ██╗░░░░░ ░█████╗░ ██╗░░░░░
+                        ██║░░░░░ ██╔══██╗ ██║░░░░░ ╚██╗██╔╝ ██║░░░░░ ██╔══██╗ ██║░░░░░
+                        ██║░░░░░ ██║░░██║ ██║░░░░░ ░╚███╔╝░ ██║░░░░░ ██║░░██║ ██║░░░░░
+                        ██║░░░░░ ██║░░██║ ██║░░░░░ ░██╔██╗░ ██║░░░░░ ██║░░██║ ██║░░░░░
+                        ███████╗ ╚█████╔╝ ███████╗ ██╔╝╚██╗ ███████╗ ╚█████╔╝ ███████╗
+                        ╚══════╝ ░╚════╝░ ╚══════╝ ╚═╝░░╚═╝ ╚══════╝ ░╚════╝░ ╚══════╝
                                                                                                  
                         ╔═════════════════════════╗         ╔═════════════════════════╗
-                        ║       dsc.gg/akago      ║         ║        dsc.gg/akago     ║
+                        ║        askip jvend      ║         ║        des nudes        ║
                      ╔═══════════════════════════════╗   ╔═══════════════════════════════╗
                      ║ [1] Nuke Token                ║   ║ [10] Get All Friends          ║  
                      ║ [2] Leave Servers             ║   ║ [11] Token Info               ║
@@ -58,7 +59,7 @@ def main():
 
     # ========================================================================================================================================================= #
 
-    info = f"""{Fore.LIGHTCYAN_EX}\t\t\t\t\t  [+] Made by maxツ#8355 [+]"""
+    info = f"""{Fore.LIGHTCYAN_EX}\t\t\t\t\t  [+] Nude=Nitro [+]"""
     for x in info:
         time.sleep(0.0001)
         sys.stdout.write(x)
@@ -71,7 +72,7 @@ def main():
     if choice == "1":
         clear_banner()
         token = input(f"Token{Fore.LIGHTBLACK_EX}:{Fore.WHITE}>> ")
-        message = "@here Nuked by Chronos"
+        message = "@here Nuked by lolxlol"
         start_nuke(token=token, content=message)
     elif choice == "2":
         clear_banner()
@@ -143,7 +144,7 @@ def socials():
         os.system('clear')
 
     # Set Console title
-    set_console_title("Chronos V1 | Made by maxツ#8355 | Socials")
+    set_console_title("lolxlol | socials")
 
     banner = f"""
                                  _________                    .___.__  __          
@@ -153,9 +154,9 @@ def socials():
                                   \______  /|__|    \___  >____ | |__||__| /____  >
                                          \/             \/     \/               \/ 
                                            ╔════════════════════════════╗      
-                                           ║      dsc.gg/akago          ║
-                                           ║  twitter.com/gokimax_x     ║  
-                                           ║   github.com/maxi-schaefer ║  
+                                           ║      jvend des nudes       ║
+                                           ║  Nude=nitro askip          ║  
+                                           ║   ak12 on te vois          ║  
                                            ╚════════════════════════════╝   
     """
     faded_banner = fade.greenblue(banner)
