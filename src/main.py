@@ -50,7 +50,7 @@ def main():
                      ║ [5] Mass Dm                   ║   ║ [14] Delete Webhook           ║
                      ║ [6] Close DMs                 ║   ║                               ║
                      ║ [7] Create Servers            ║   ║ [15] CREDITS                  ║
-                     ║ [8] Block All Friends         ║   ║ [17] EXIT                     ║
+                     ║ [8] Block All Friends         ║   ║ [16] EXIT                     ║
                      ║ [9] Token Grabber             ║   ║                               ║
                      ╚═══════════════════════════════╝   ╚═══════════════════════════════╝
     """
